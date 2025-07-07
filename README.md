@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joeljames1&label=Profile%20views&color=0e75b6&style=flat" alt="joeljames1" /> </p>
 
-- 🔭 I’m currently working at [Embedded IQ](https://embedded-iq.com/)
+- 🔭 I’m currently studying at the University of Kwazulu-Natal
 
 - 🌱 I’m currently learning **Python and ruby on rails development as well as bash scripting**
 
